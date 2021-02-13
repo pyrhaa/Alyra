@@ -1,0 +1,11 @@
+## My list of useful bash/linux's commands
+
+1. **pwd**: shows the directory you’re currently in;
+2. **ls**: it presents to you the contents of a particular directory – both files and directories;
+3.  **cd**: short for Change Directory, the cd command is behind your movement from one directory to another;
+4.  **mkdir**: it lets you create folders;
+5.  **touch**: for creating a valid empty file;
+6.  **cat**: use to create new files, view file contents in the terminal, and redirect output to another command-line tool or file;
+7.  **clear**: to clear out your existing terminal screen;
+8.  **sudo**: lets non-privileged users access and modify files that require low-level permissions;
+9.  **man**: command stands for manual.
