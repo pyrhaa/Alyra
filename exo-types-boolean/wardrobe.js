@@ -1,7 +1,9 @@
 let isRainy = true;
 let isTsunami = true;
-let temperature = 35;
-let clothes = '' + 'escarpin, robe, chapeau';
+let temperature = 25;
+let clothes ='escarpin, robe, chapeau';
+let inParis = false;
+let SalledeSport = true;
 
 if (isRainy) {
   clothes += 'umbrella, '; // concatenation de string
@@ -22,4 +24,4 @@ if (temperature < 15 || isTsunami) {
 
 console.log(`Je vous recommande de porter: ${clothes}`);
 
-//probleme non resolu//
+//A corriger, code faux//
