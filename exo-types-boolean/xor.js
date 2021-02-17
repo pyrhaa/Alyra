@@ -10,7 +10,7 @@ if (a && b) {
 
 //ou autrement//
 
-const a = 0;
+const a = 1;
 const b = 1;
 
 if (!a && !b) {
