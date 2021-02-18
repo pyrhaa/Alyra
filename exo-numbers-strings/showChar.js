@@ -3,7 +3,7 @@ let i = 0;
 
 while (i < txt.length) {
   if (i === 0) {
-    console.log(`Title: Carthage, Author: Daniel Rondeau, ${txt.length}`);
+    console.log(`Title: Salammbo, Author: Gustave Flaubert, ${txt.length}`);
   }
   //68
   console.log(`Le caractere ${txt[i]} est a l index ${i} `);
